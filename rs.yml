@@ -1,0 +1,20 @@
+# navbar
+login: prijavite se
+register: registrujte se
+search: pretraži
+# sidebar/bottombar 
+home: glavni meni
+subs: pretplatnika
+upload: objavi
+popular: popularno
+more: više
+settings: podešavanja
+
+# reusable?
+maintenance: održavanje
+site_is_down_for_maintenance: sajt zatvoren za održavanje
+
+username: korisničko ime
+password: lozinka
+confirm_password: potvrdite lozinku
+i_agree_to_the_terms_of_service: slažem se sa uslovima korišćenja usluge
